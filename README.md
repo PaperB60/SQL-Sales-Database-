@@ -1,4 +1,5 @@
 **SQL-Sales-Database-**
+
 This will be a SQL database where you can write queries for "Total Revenue" or "Monthly Sales Trends". Overview
 
 This project focuses on analyzing sales data using SQL to generate meaningful business insights. A relational database was designed to store customer, product, and order information, allowing for efficient querying and analysis of sales performance, customer behavior, and product trends.
